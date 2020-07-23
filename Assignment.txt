@@ -1,0 +1,5 @@
+Q. Demos of loop in java
+
+-while loop
+-do-while loop
+-switch case
